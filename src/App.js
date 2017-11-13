@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import Game from './game/Game';
 
 const App = (props) => {
